@@ -1,3 +1,5 @@
+Please consider supporting on Patreon: https://www.patreon.com/ernaniscosta/shop
+
 # FOTNS
 romhack of Hokuto no ken for the sega mega drive
 patch by Ernani da S. Costa
