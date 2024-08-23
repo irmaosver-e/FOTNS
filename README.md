@@ -4,6 +4,43 @@ Please consider supporting on Patreon: https://www.patreon.com/ernaniscosta/shop
 romhack of Hokuto no ken for the sega mega drive
 patch by Ernani da S. Costa
 apply
+
+v2.0
+ + faster chapter transitions
+ + Dungeon axe collision disabled after hit
+ + Complete rearrange of dungeon layout and logic, new graphical elements also added
+ + added item pickups in the dungeon
+ + Dungeon wall holes can now be entered
+ + dungeon doors are now all functional
+ + Ken gravity after hit logic revised to work better in the dungeons
+ + dungeon flying axe environment collision slightly improved
+ + dungeon increased move speed when jumping when not moving reworked, now Kenshiro has a slightly higher jump 
+anywhere in the game if ducking and jumping  (note that powered Kenshiro always had a higher jump than non-powered). in dungeons, performing next to a ledge will also give Kenshiro the forward move boost.
+ + Dungeon 3 transition to Han fight is not automatic anymore, the player must press up at the new Han door 
+ + Han attack pattern restored to original (v1.5 was too difficult)
+ + Falco aggressiveness slightly nerfed (v1.5 was too difficult) 
+ + HUD redesigned
+ + Map status box now shows "value / current max" in percentage 
+	(can reach 100 if all pickups and dialogues are found)   
+ + Map status box lettering improved
+ + Hyo shadow column graphics changed
+ + Hyo & Kaioh shadow column now can be dodged  
+ + Akashachi's claw hand now cannot be deflected, to avoid him being cornered too easily) 
+ + Flamethrower no longer can be extinguished with Kenshiro's attack
+ + The original point system was barely used/incomplete, it has been expanded.
+	(deflect projectiles = 25 / stronger projectiles & bird = 50 / basic enemies = 250 
+	/ stronger enemies & machines = 500 / minor bosses = 1000 / stage bosses = 3000 / Hasho = 5000)
+ + extra life now at 3k, 6k, 9k, 12k
+ + Start the game with slightly lower max health to accommodate for health pickups
+ + power required to transform is now equally spread
+ + Chapter select cheat now starts with correct health, power and def values due to changes
+ + Chapt 4 special enemies side of spawn is now random
+ + Dungeon enemy's initial side of spawn is now random
+ + The boss health bar now shows the correct size for each boss 
+
+**TRANSLATION HACKS V1.5 AND BELOW
+CURRENTLY AVAILABLE @ ROMHACKING.NET
+
 *FONTS_ENG:
  + original Japanese to English translation
  + dialogue text box size increased
@@ -83,39 +120,7 @@ apply
  + Falco and Han attack patterns rebalanced
  + final Kaioh 2nd dialog pic start in correct pos (no rising pic behind)
 
- v2.0
- + faster chapter transitions
- + Dungeon axe collision disabled after hit
- + Complete rearrange of dungeon layout and logic, new graphical elements also added
- + added item pickups in the dungeon
- + Dungeon wall holes can now be entered
- + dungeon doors are now all functional
- + Ken gravity after hit logic revised to work better in the dungeons
- + dungeon flying axe environment collision slightly improved
- + dungeon increased move speed when jumping when not moving reworked, now Kenshiro has a slightly higher jump 
-anywhere in the game if ducking and jumping  (note that powered Kenshiro always had a higher jump than non-powered). in dungeons, performing next to a ledge will also give Kenshiro the forward move boost.
- + Dungeon 3 transition to Han fight is not automatic anymore, the player must press up at the new Han door 
- + Han attack pattern restored to original (v1.5 was too difficult)
- + Falco aggressiveness slightly nerfed (v1.5 was too difficult) 
- + HUD redesigned
- + Map status box now shows "value / current max" in percentage 
-	(can reach 100 if all pickups and dialogues are found)   
- + Map status box lettering improved
- + Hyo shadow column graphics changed
- + Hyo & Kaioh shadow column now can be dodged  
- + Akashachi's claw hand now cannot be deflected, to avoid him being cornered too easily) 
- + Flamethrower no longer can be extinguished with Kenshiro's attack
- + The original point system was barely used/incomplete, it has been expanded.
-	(deflect projectiles = 25 / stronger projectiles & bird = 50 / basic enemies = 250 
-	/ stronger enemies & machines = 500 / minor bosses = 1000 / stage bosses = 3000 / Hasho = 5000)
- + extra life now at 3k, 6k, 9k, 12k
- + Start the game with slightly lower max health to accommodate for health pickups
- + power required to transform is now equally spread
- + Chapter select cheat now starts with correct health, power and def values due to changes
- + Chapt 4 special enemies side of spawn is now random
- + Dungeon enemy's initial side of spawn is now random
- + The boss health bar now shows the correct size for each boss 
-
+ 
 BOTH PATCHES INCLUDE:
  + graphic fixes (broken mouth sprites/ arrowhead sprite/ wrong max def value)
  + Graphic translations to pre-logo, pre-chapter text and ending background text
