@@ -3,19 +3,20 @@ Please consider supporting this project: https://github.com/sponsors/irmaosver-e
 # FOTNS
 romhack of Hokuto no ken for the sega mega drive
 patch by Ernani da S. Costa
-apply
+
+Latest patch versions are based on older versions, so only patch the latest version for all features
 
 v2.0
- + faster chapter transitions
+ + Faster chapter transitions
  + Dungeon axe collision disabled after hit
  + Complete rearrange of dungeon layout and logic, new graphical elements also added
- + added item pickups in the dungeon
+ + Added item pickups in the dungeon
  + Dungeon wall holes can now be entered
- + dungeon doors are now all functional
+ + Dungeon doors are now all functional
  + Ken gravity after hit logic revised to work better in the dungeons
- + dungeon flying axe environment collision slightly improved
- + dungeon increased move speed when jumping when not moving reworked, now Kenshiro has a slightly higher jump 
-anywhere in the game if ducking and jumping  (note that powered Kenshiro always had a higher jump than non-powered). in dungeons, performing next to a ledge will also give Kenshiro the forward move boost.
+ + Dungeon flying axe environment collision slightly improved
+ + Dungeon increased move speed when jumping when not moving reworked, now Kenshiro has a slightly higher jump 
+anywhere in the game if ducking and jumping  (note that powered Kenshiro always had a higher jump than non-powered). in dungeons, performing next to a ledge will also boost Kenshiro's forward move.
  + Dungeon 3 transition to Han fight is not automatic anymore, the player must press up at the new Han door 
  + Han attack pattern restored to original (v1.5 was too difficult)
  + Falco aggressiveness slightly nerfed (v1.5 was too difficult) 
@@ -30,7 +31,7 @@ anywhere in the game if ducking and jumping  (note that powered Kenshiro always 
  + The original point system was barely used/incomplete, it has been expanded.
 	(deflect projectiles = 25 / stronger projectiles & bird = 50 / basic enemies = 250 
 	/ stronger enemies & machines = 500 / minor bosses = 1000 / stage bosses = 3000 / Hasho = 5000)
- + extra life now at 3k, 6k, 9k, 12k
+ + Extra life now at 3k, 6k, 9k, 12k
  + Start the game with slightly lower max health to accommodate for health pickups
  + power required to transform is now equally spread
  + Chapter select cheat now starts with correct health, power and def values due to changes
@@ -42,66 +43,21 @@ anywhere in the game if ducking and jumping  (note that powered Kenshiro always 
 CURRENTLY AVAILABLE @ ROMHACKING.NET
 
 *FONTS_ENG:
- + original Japanese to English translation
- + dialogue text box size increased
+ + Original Japanese to English translation
+ + Dialogue text box size increased
 
 *FONTS_REVISITED (latest version of the hack)
- v1.0
- + stage order rearranged and text curated to reflect the anime more closely
- + Graphic changes to the map and its locations to reflect the stages more closely
- + air enemy bounce physics
- + Boss health and damage inflicted on Kenshiro rebalanced
- + Some stages had enemy placement adjusted
- + Kenshiro attack, jump, enemy hit and enemy hitting Kenshiro sound fx changed
- + walking speed increased
- + Stage scroll when Kenshiro is at the center of the screen
- + Hyo/Kaioh energy column now pushes Kenshiro.
-
- v1.1
- + Kaioh name in intro fixed
- + dungeon flying axe environment collision fixed
- + chapter 2 dungeon skip bug fixed
- + black line in front of arrow head removed
- + weak Kenshiro collision box was too big, fixed
- + running pirate attack and dmg collision boxes readjusted
-
- v1.2
- + stage select numbering fixed
- + dialog boxes increased and location of dialogue and intro in the rom, reflects the purist patch
- + revised shorter intro
- + revised dialogues no take advantage of the extra line.
- + boss fight with names
-
-
- v1.3
- + trademark title text restored
- + title sequence changed to Sega > title > story > attract
- + eagle dive stops at crouching height 
- + added accent characters
- + AkaShachi name bleed fixed
- + some stage had enemy placement changed
- + some enemy speed changed
- + enemy recoil amount slightly increased
- + AkaShachi boss screen scroll now only stops scroll back
- + AkaShachi aggressiveness increased
- + sword throwing shura sprite positions fixed
- + sword throwing shura ground collision logic fixed
- + rolling rock speed slightly increased
- + stage select shows stage 1 when activated
- + Asuka appears on the right of her stage now
- + enter Asuka stage from the right when coming from the dungeon
- + entering boomerang shura stage from the right when coming from the 1st town
- + entering Shachi stage from the right when coming from the Kaioh talk
- + Shachi position changed to left side of stage
- + Shachi, Asuka and their dialog pics adjusted to face the correct side due to changes
- + bask forehead cross fixed
-
- v1.3.1
- + expanded chars for possible French translation in both purist and extended patches
- + purist patch show Chapt 1  when entering stage select cheat
+ v1.5
+ + Story wall now has music
+ + Intro sfx and animation timing adjusted
+ + Extra life and lost life sfx added
+ + Game over sfx implemented (lost sfx found in code)
+ + Rebalanced bosses and enemies to account for the life system
+ + Falco and Han attack patterns rebalanced
+ + Final Kaioh 2nd dialogue pic start in the correct pos (no rising pic behind)
 
  v1.4
- + boomerang enemy facing right collision detection fixed
+ + Boomerang enemy facing right collision detection fixed
  + extra life system implemented (gained with score)
  + Kenshiro rebound in the air now accounts for gravity
  + ken consecutive hits have increased rebound and dmg
@@ -111,16 +67,59 @@ CURRENTLY AVAILABLE @ ROMHACKING.NET
  + Kaioh def slighly increased 
  + disappearing shura fixed hand animation
 
- v1.5
- + story wall now has music
- + intro sfx and animation timing adjusted
- + extra life and lost life sfx added
- + game over sfx implemented (lost sfx found in code)
- + rebalanced bosses and enemies to account for life system
- + Falco and Han attack patterns rebalanced
- + final Kaioh 2nd dialog pic start in correct pos (no rising pic behind)
+ v1.0
+ + stage order rearranged and text curated to reflect the anime more closely
+ + Graphic changes to the map and its locations to reflect the stages more closely
+ + Air enemy bounce physics
+ + Boss health and damage inflicted on Kenshiro rebalanced
+ + Some stages had enemy placement adjusted
+ + Kenshiro attack, jump, enemy hit and enemy hitting Kenshiro sound fx changed
+ + Walking speed increased
+ + Stage scroll when Kenshiro is at the centre of the screen
+ + Hyo/Kaioh energy column now pushes Kenshiro.
 
- 
+ v1.3.1
+ + Expanded chars for possible French translation in both purist and extended patches
+ + Purist patch shows Chapt 1  when entering stage select cheat
+
+ v1.3
+ + Trademark title text restored
+ + Title sequence changed to Sega > title > story > attract
+ + Eagle dive stops at Kenshiro's crouching height 
+ + Added accent characters for possible extra language support
+ + Akashachi's name bleed fixed
+ + Some stages had enemy placement changed
+ + Some enemy speed changed
+ + Enemy recoil amount slightly increased
+ + Akashachi boss screen scroll now only stops scrolling back
+ + Akashachi's aggressiveness increased
+ + Sword-throwing shura sprite positions fixed
+ + sword-throwing shura ground collision logic fixed
+ + rolling rock speed slightly increased
+ + Stage select shows stage 1 when activated
+ + Asuka appears on the right of her stage now
+ + Enter Asuka stage from the right when coming from the dungeon
+ + Entering the boomerang shura stage from the right when coming from the 1st town
+ + Entering Shachi stage from the right when coming from the Kaioh talk
+ + Shachi's position changed to the left side of stage
+ + Shachi, Asuka and their dialogue pics were adjusted to face the correct side due to changes
+ + bask forehead cross fixed
+
+ v1.2
+ + Stage select numbering fixed
+ + Dialogue boxes increased and the location of dialogue and intro in the ROM, reflects the purist patch
+ + Revised shorter intro
+ + Revised dialogues now take advantage of the extra line.
+ + Boss fight with names
+
+v1.1
+ + Kaioh's name in the intro fixed
+ + Dungeon flying axe environment collision fixed
+ + Chapter 2 dungeon skip bug fixed
+ + Black line in front of arrowhead removed
+ + Weak Kenshiro collision box was too big, fixed
+ + Running pirate attack and dmg collision boxes readjusted
+
 BOTH PATCHES INCLUDE:
  + graphic fixes (broken mouth sprites/ arrowhead sprite/ wrong max def value)
  + Graphic translations to pre-logo, pre-chapter text and ending background text
