@@ -1,4 +1,4 @@
-Please consider supporting on Patreon: https://www.patreon.com/ernaniscosta/shop
+Please consider supporting this project: https://github.com/sponsors/irmaosver-e
 
 # FOTNS
 romhack of Hokuto no ken for the sega mega drive
