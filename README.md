@@ -4,7 +4,7 @@ Please consider supporting this project: https://github.com/sponsors/irmaosver-e
 romhack of Hokuto no ken for the sega mega drive
 patch by Ernani da S. Costa
 
-Latest patch versions are based on older versions, so only patch the latest version for all features
+All patch versions are based on older versions, so only patch the version you want for all features up to that version.
 
 v2.0
  + Faster chapter transitions
@@ -40,13 +40,13 @@ anywhere in the game if ducking and jumping  (note that powered Kenshiro always 
  + The boss health bar now shows the correct size for each boss 
 
 **TRANSLATION HACKS V1.5 AND BELOW
-CURRENTLY AVAILABLE @ ROMHACKING.NET
+ALSO AVAILABLE @ ROMHACKING.NET.
 
-*FONTS_ENG:
+*FONTS_ENG_PURIST:
  + Original Japanese to English translation
  + Dialogue text box size increased
 
-*FONTS_REVISITED (latest version of the hack)
+*FONTS_ENG_ANIME
  v1.5
  + Story wall now has music
  + Intro sfx and animation timing adjusted
