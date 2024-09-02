@@ -1,10 +1,19 @@
 Please consider supporting this project: https://github.com/sponsors/irmaosver-e
 
 # FOTNS
-romhack of Hokuto no ken for the sega mega drive
+ROMhack of Hokuto no ken for the sega mega drive
 patch by Ernani da S. Costa
 
 All patch versions are based on older versions, so only patch the version you want for all features up to that version.
+
+v2.1
++ Clouds in Geira stage not moving bug fixed
++ Bask forehead cross follows manga design
++ Boomerang guy glitch when hit by boomerang when rebounding fixed
++ Extra life system now shows death animation, then back to map at prev. location after losing a life
++ Chapt 4 stage 1 special enemy now respawns like the other special enemies in Chapt 4
++ Added a path from the Chapt 4 dungeon to Leia's stage
++ Chapt 3 small boat arrows glitching if loaded from the stage select fixed.
 
 v2.0
  + Faster chapter transitions
