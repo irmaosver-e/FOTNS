@@ -76,17 +76,6 @@ ALSO AVAILABLE @ ROMHACKING.NET.
  + Kaioh def slighly increased 
  + disappearing shura fixed hand animation
 
- v1.0
- + stage order rearranged and text curated to reflect the anime more closely
- + Graphic changes to the map and its locations to reflect the stages more closely
- + Air enemy bounce physics
- + Boss health and damage inflicted on Kenshiro rebalanced
- + Some stages had enemy placement adjusted
- + Kenshiro attack, jump, enemy hit and enemy hitting Kenshiro sound fx changed
- + Walking speed increased
- + Stage scroll when Kenshiro is at the centre of the screen
- + Hyo/Kaioh energy column now pushes Kenshiro.
-
  v1.3.1
  + Expanded chars for possible French translation in both purist and extended patches
  + Purist patch shows Chapt 1  when entering stage select cheat
@@ -128,6 +117,17 @@ v1.1
  + Black line in front of arrowhead removed
  + Weak Kenshiro collision box was too big, fixed
  + Running pirate attack and dmg collision boxes readjusted
+
+v1.0
+ + stage order rearranged and text curated to reflect the anime more closely
+ + Graphic changes to the map and its locations to reflect the stages more closely
+ + Air enemy bounce physics
+ + Boss health and damage inflicted on Kenshiro rebalanced
+ + Some stages had enemy placement adjusted
+ + Kenshiro attack, jump, enemy hit and enemy hitting Kenshiro sound fx changed
+ + Walking speed increased
+ + Stage scroll when Kenshiro is at the centre of the screen
+ + Hyo/Kaioh energy column now pushes Kenshiro.
 
 BOTH PATCHES INCLUDE:
  + graphic fixes (broken mouth sprites/ arrowhead sprite/ wrong max def value)
