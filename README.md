@@ -6,6 +6,11 @@ patch by Ernani da S. Costa
 
 All patch versions are based on older versions, so only patch the version you want for all features up to that version.
 
+v2.1.1
++ Title screen background
++ Disabled death by time, health decreases to 1 instead
++ Title logo + subtext change according to hardware version, JP logo + "fist of the north star" or EN logo + "hokuto no ken"
+
 v2.1
 + Clouds in Geira stage not moving bug fixed
 + Bask forehead cross follows manga design
