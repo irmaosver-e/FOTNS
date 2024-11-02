@@ -6,6 +6,11 @@ patch by Ernani da S. Costa
 
 All patch versions are based on older versions, so only patch the version you want for all features up to that version.
 
+v2.1.2
++ HUD redesign moves time to the centre and add a hi-score (game was keeping track of it originally but never displayed it)
++ Hi-score SRAM feature added
++ Off centre title text adjusted  
+
 v2.1.1
 + Title screen background
 + Disabled death by time, health decreases to 1 instead
