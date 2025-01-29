@@ -6,7 +6,7 @@ Please consider supporting on: https://github.com/sponsors/irmaosver-e
 </a>
 or
 <a href="https://github.com/sponsors/irmaosver-e">
-<img src="https://img.shields.io/badge/Sponsor%20me-GitHub%20Sponsors-brightgreen" width="300" />
+<img src="https://img.shields.io/badge/GitHub%20Sponsors-brightgreen" width="300" />
 </a>
 
 # FOTNS
