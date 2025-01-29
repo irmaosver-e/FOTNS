@@ -5,35 +5,9 @@ or buying me a coffee! ☕<br>
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
 </a>
 
-<div class="Box-row Box-row--hover-blue hx_Box-row--with-top-border js-sponsors-custom-amount-container">
-  <!-- '"` --><!-- </textarea></xmp> --><form class="d-flex flex-items-center flex-justify-between mb-2 js-tier-shared-parent" data-turbo="false" action="/sponsors/irmaosver-e/sponsorships" accept-charset="UTF-8" method="get">
-    <input type="hidden" name="sponsor" value="irmaosver-e">
-    <input type="hidden" name="preview" value="true">
-    <input type="hidden" name="frequency" value="recurring">
-    <div class="form-group my-0">
-      <h4 class="d-flex flex-items-center">
-        <span class="position-relative mr-2">
-          <span class="position-absolute ml-2 color-fg-muted" style="top: 4px;left: 3px">$</span>
-          <auto-check class="js-tier-pricing-check" src="/sponsors/irmaosver-e/custom_tier_verify?frequency=recurring" required="" dirty="">
-            <input type="number" class="form-control pl-4 js-sponsors-custom-amount-input" style="width: 96px;" name="amount" value="" min="1" step="1" aria-label="Custom sponsorship amount" max="12000" required="" autocomplete="off" spellcheck="false">
-            <input type="hidden" value="feYX5USGnaAkmbksa2AWJYvB8uf287pSWzRLmQQ6HA3a8JUesR4BOyStDFlDxMFjQEEe_IpHwb1th3s6if5k_w" data-csrf="true">
-          </auto-check>
-        </span>
-        <span>
-          a month
-        </span>
-      </h4>
-    </div>
-
-      <button type="submit" data-view-component="true" class="js-publish-tier-button Button--secondary Button--medium Button float-right">  <span class="Button-content">
-    <span class="Button-label">Select</span>
-  </span>
-</button>
-
-</form>  <div class="markdown-body comment-body p-0 js-sponsors-custom-amount-message" data-tier-minimums="[]" data-min-custom-tier-amount="" data-tier-reward-prefix="You'll receive any rewards listed in the " data-tier-reward-suffix="monthly tier. Additionally, a Public Sponsor achievement will be added to your profile." data-default-reward-text="A Public Sponsor achievement will be added to your profile." data-choose-amount-text="Choose a custom amount.">
-      Choose a custom amount.
-  </div>
-</div>
+<a href="https://github.com/sponsors/irmaosver-e">
+<img src="https://img.shields.io/badge/Sponsor%20me-GitHub%20Sponsors-brightgreen" width="150" />
+</a>
 
 # FOTNS
 ROMhack of Hokuto no ken for the sega mega drive
