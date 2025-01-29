@@ -1,4 +1,7 @@
-Please consider supporting this project: https://github.com/sponsors/irmaosver-e
+Please consider supporting on: https://github.com/sponsors/irmaosver-e
+
+or buying me a coffee! ☕
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/nani16bit)
 
 # FOTNS
 ROMhack of Hokuto no ken for the sega mega drive
