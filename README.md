@@ -3,7 +3,7 @@ Please consider supporting on: https://github.com/sponsors/irmaosver-e
 or buying me a coffee! ☕
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/nani16bit)
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nani16bit" data-color="#FFDD00" data-emoji="☕" data-font="Bree" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+(<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nani16bit" data-color="#FFDD00" data-emoji="☕" data-font="Bree" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>)
 
 # FOTNS
 ROMhack of Hokuto no ken for the sega mega drive
