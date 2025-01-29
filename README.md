@@ -1,7 +1,6 @@
 Please consider supporting on: https://github.com/sponsors/irmaosver-e
 
 or buying me a coffee! ☕
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/nani16bit)
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
 
 # FOTNS
