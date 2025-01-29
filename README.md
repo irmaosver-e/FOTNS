@@ -1,7 +1,7 @@
 Please consider supporting on: https://github.com/sponsors/irmaosver-e
 
 or buying me a coffee! ☕<br>
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />](https://www.buymeacoffee.com/nani16bit)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />](https://www.buymeacoffee.com/nani16bit){:target="_blank"}
 
 # FOTNS
 ROMhack of Hokuto no ken for the sega mega drive
