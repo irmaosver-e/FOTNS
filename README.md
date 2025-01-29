@@ -1,3 +1,7 @@
+<a href="https://github.com/sponsors/irmaosver-e/button" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-irmaosver-e-orange" alt="Sponsor @irmaosver-e" />
+</a>
+
 Please consider supporting this project: https://github.com/sponsors/irmaosver-e
 
 # FOTNS
