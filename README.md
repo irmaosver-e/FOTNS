@@ -1,12 +1,12 @@
 Please consider supporting on: https://github.com/sponsors/irmaosver-e
 
-or buying me a coffee! ☕<br>
+<br>
 <a href="https://www.buymeacoffee.com/nani16bit" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
 </a>
-
+or
 <a href="https://github.com/sponsors/irmaosver-e">
-<img src="https://img.shields.io/badge/Sponsor%20me-GitHub%20Sponsors-brightgreen" width="150" />
+<img src="https://img.shields.io/badge/Sponsor%20me-GitHub%20Sponsors-brightgreen" width="300" />
 </a>
 
 # FOTNS
