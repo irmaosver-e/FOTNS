@@ -1,6 +1,6 @@
 Please consider supporting on: https://github.com/sponsors/irmaosver-e
 
-or buying me a coffee! ☕
+or buying me a coffee! ☕<br>
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
 
 # FOTNS
